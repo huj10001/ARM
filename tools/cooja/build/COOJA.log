@@ -1,2 +1,18 @@
-[16:39:30 - AWT-EventQueue-0] [GUI.java:2846] [INFO] - External tools default settings: /external_tools_linux.config
-[16:39:30 - AWT-EventQueue-0] [GUI.java:2876] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[17:28:21 - main] [GUI.java:3159] [WARN] - JAVA_HOME environment variable not set, Cooja motes may not compile
+[17:28:21 - AWT-EventQueue-0] [GUI.java:2846] [INFO] - External tools default settings: /external_tools_linux.config
+[17:28:21 - AWT-EventQueue-0] [GUI.java:2876] [INFO] - External tools user settings: /root/.cooja.user.properties
+[17:28:49 - Thread-0] [Simulation.java:423] [INFO] - Simulation random seed: 123456
+[17:28:49 - Thread-0] [CompileContiki.java:140] [INFO] - > make 1.sky TARGET=sky 
+[17:28:50 - Thread-0] [CompileContiki.java:140] [INFO] - > make 2.sky TARGET=sky 
+[17:28:50 - Thread-0] [CompileContiki.java:140] [INFO] - > make hello-world.sky TARGET=sky 
+[17:28:50 - Thread-0] [MspMote.java:232] [INFO] - Loading firmware from: /media/abc/ids-origin/examples/review/../1/1.sky
+[17:28:51 - Thread-0] [MspMote.java:232] [INFO] - Loading firmware from: /media/abc/ids-origin/examples/review/../1/2.sky
+[17:28:51 - Thread-0] [MspMote.java:232] [INFO] - Loading firmware from: /media/abc/ids-origin/examples/review/../1/2.sky
+[17:28:51 - Thread-0] [MspMote.java:232] [INFO] - Loading firmware from: /media/abc/ids-origin/examples/review/../1/2.sky
+[17:28:51 - Thread-0] [MspMote.java:232] [INFO] - Loading firmware from: /media/abc/ids-origin/examples/review/../1/2.sky
+[17:28:51 - Thread-0] [MspMote.java:232] [INFO] - Loading firmware from: /media/abc/ids-origin/examples/review/../1/2.sky
+[17:28:51 - Thread-0] [MspMote.java:232] [INFO] - Loading firmware from: /media/abc/ids-origin/examples/review/../1/2.sky
+[17:28:51 - Thread-0] [MspMote.java:232] [INFO] - Loading firmware from: /media/abc/ids-origin/examples/review/../Part2/hello-world.sky
+[17:28:51 - Thread-0] [MspMote.java:232] [INFO] - Loading firmware from: /media/abc/ids-origin/examples/review/../1/2.sky
+[17:28:51 - Thread-0] [MspMote.java:232] [INFO] - Loading firmware from: /media/abc/ids-origin/examples/review/../1/2.sky
+[17:28:51 - Thread-0] [MspMote.java:232] [INFO] - Loading firmware from: /media/abc/ids-origin/examples/review/../1/2.sky
